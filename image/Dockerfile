@@ -1,4 +1,4 @@
-FROM debian:testing-slim
+FROM debian:buster-slim
 LABEL maintainer="Valter Vasic <valter.vasic@gmail.com>"
 
 ADD . /build
