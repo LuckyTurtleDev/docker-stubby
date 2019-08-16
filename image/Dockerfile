@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-LABEL maintainer="Valter Vasic <valter.vasic@gmail.com>"
+LABEL git="https://github.com/Lukas1818/docker-stubby"
 
 ADD . /build
 
