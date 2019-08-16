@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd image
-docker build -t oikuda/stubby-quad9 .
+docker build -t lukas1818/stubby .
